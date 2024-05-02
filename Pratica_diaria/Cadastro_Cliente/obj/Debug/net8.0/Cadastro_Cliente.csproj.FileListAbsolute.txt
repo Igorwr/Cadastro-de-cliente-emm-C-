@@ -1,0 +1,14 @@
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\bin\Debug\net8.0\Cadastro_Cliente.exe
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\bin\Debug\net8.0\Cadastro_Cliente.deps.json
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\bin\Debug\net8.0\Cadastro_Cliente.runtimeconfig.json
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\bin\Debug\net8.0\Cadastro_Cliente.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\bin\Debug\net8.0\Cadastro_Cliente.pdb
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\Cadastro_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\Cadastro_Cliente.AssemblyInfoInputs.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\Cadastro_Cliente.AssemblyInfo.cs
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\Cadastro_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\Cadastro_Cliente.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\refint\Cadastro_Cliente.dll
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\Cadastro_Cliente.pdb
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\Cadastro_Cliente.genruntimeconfig.cache
+C:\Users\igorw\OneDrive\Área de Trabalho\Pratica_diaria\Cadastro_Cliente\obj\Debug\net8.0\ref\Cadastro_Cliente.dll
